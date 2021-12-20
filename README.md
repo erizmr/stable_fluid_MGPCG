@@ -6,7 +6,5 @@
 
 ### Demo
 
-```
 <img src="./imgs/stable_fluid_mgpcg.gif" width="350">
-```
 
